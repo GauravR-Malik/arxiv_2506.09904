@@ -5,5 +5,5 @@ In order to use these files, kindly fork it to your own account and then downloa
 Using these files requires the numpy library, and the np.load() command for accessing them to a program.
 Incase of anything else, or just to get in touch, you can find me at my email ID: gauravrudramalik@gmail.com
 
-Best Regards
+Thanks and Best Regards
 Gaurav
